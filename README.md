@@ -28,7 +28,6 @@
 ---
 
 # 🔥 CONFIDENCE — INTERVIEW, THINKING & CONSISTENCY
----
 
 ## 1️⃣ What Confidence REALLY Means (Not Motivation)
 
