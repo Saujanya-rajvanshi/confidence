@@ -2,7 +2,7 @@
 
 # AIM
 
-## 🎯 7 Core Focus 
+## 🎯 7 Core Focus
 
 1.🧠 **DSA (Data Structures & Algorithms)**
    * → Most important for Google interviews
