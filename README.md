@@ -1,31 +1,74 @@
 # confidence
 
-# AIM
 
-## 🎯 7 Core Focus
+## Life 
 
-1.🧠 **DSA (Data Structures & Algorithms)**
-   * → Most important for Google interviews
+### Health 
 
-2.💻 **Programming Language (C++)**
-   * → STL, pointers, memory, OOP usage with DSA
+#### physical health
+* Nutrition
+* food cooking
+* Exercise
+* Body care
 
-3.📚**Core CS Theory**
-   * → DBMS, OOPs, OS, CN (basics at least)
+#### mental health
+* sprituality
+* Discipline
+* Happiness
+* In the moment 
 
-4.🗣️ **Communication Language**
-   * → Korean (for South Korea workplace) + clear English
 
-5.🌐 **Web Development**
-   * → For projects, resume strength, real-world skills
 
-6.🧮 **Aptitude**
-   * → Helps in online tests, speed + accuracy
+### Career/Education
 
-7.🔥 **Confidence**
-   * → Interviews, explaining thought process, consistency
+* Theory
+* Dsa
+* language
+* Aptitude
+* Web development 
+* Academic semester  9+ cgpa 
+* Gsoc 
+* hackathons, competitive coding 
+* Internship
 
----
+
+
+
+### Personal Growth
+
+* Guitar 
+* Chess 
+* Cube 
+* Journals  
+* Language 
+* Mun
+* Books 
+
+
+
+### Finance
+Material 
+Earning, saving, spending, and managing resources.
+First 10,000
+
+
+
+### Networking
+
+* myself
+* Family, friends
+* Linked in, youtube, instagram
+* entairtainment
+
+
+
+
+
+
+
+
+
+
 
 # 🔥 CONFIDENCE — INTERVIEW, THINKING & CONSISTENCY
 
@@ -304,20 +347,3 @@ Google looks for:
 * Learning attitude
 
 ---
-
-## 🔑 FINAL CORE PRINCIPLE
-
-> **Confidence is earned silently
-> and shown quietly.**
-
-You are building it the **right way**:
-
-* structure
-* consistency
-* reflection
-
-This repo will be **for you**, but its effect will show everywhere.
-
----
-
-Tell me what you want next.
