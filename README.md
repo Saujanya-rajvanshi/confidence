@@ -87,14 +87,14 @@ First 10,000
 
 
 
+---
 
 
 
 
 
 
-
-# Interview, Thiniing & Consistency
+# Interview, Thinikng & Consistency
 
 ## 1️⃣ What Confidence REALLY Means (Not Motivation)
 
