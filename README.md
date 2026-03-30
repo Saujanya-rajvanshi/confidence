@@ -93,7 +93,7 @@ First 10,000
 
 
 
-# 🔥 CONFIDENCE — INTERVIEW, THINKING & CONSISTENCY
+# INTERVIEW, THINKING & CONSISTENCY
 
 ## 1️⃣ What Confidence REALLY Means (Not Motivation)
 
@@ -113,8 +113,6 @@ First 10,000
 > 💡 **Interviewers don’t test confidence directly.
 > They test how you behave when you don’t know something.**
 
----
-
 ## 2️⃣ Types of Confidence (You Must Build All 3)
 
 ### 🧠 1. Cognitive Confidence (Thinking Ability)
@@ -129,8 +127,6 @@ This comes from:
 * Explaining solutions aloud
 * Writing pseudo-code first
 
----
-
 ### 🗣️ 2. Communication Confidence
 
 * Explaining logic clearly
@@ -143,8 +139,6 @@ This comes from:
 * Structured explanation flow
 * Accepting pauses while speaking
 
----
-
 ### 🔁 3. Consistency Confidence
 
 * Trust in your preparation
@@ -156,8 +150,6 @@ This comes from:
 * Daily study routine
 * Small wins every day
 * Tracking progress
-
----
 
 ## 3️⃣ Confidence Flow During an Interview (VERY IMPORTANT)
 
@@ -176,16 +168,12 @@ This comes from:
 Even if you fail at step 6 or 7 →
 **you still pass if steps 1–5 are strong**.
 
----
-
 ### ❌ Wrong Flow (Causes Panic)
 
 * Silent thinking
 * Jumping straight to code
 * Apologizing repeatedly
 * Saying “I don’t know” immediately
-
----
 
 ## 4️⃣ How to Explain Your Thought Process (STEP TEMPLATE)
 
@@ -198,8 +186,6 @@ Use this **every time**:
 > “Edge cases would include…”
 
 🔁 This template **creates confidence automatically**.
-
----
 
 ## 5️⃣ Confidence While You Are STUCK (Critical Section)
 
@@ -220,8 +206,6 @@ Example:
 ❌ Never freeze
 ❌ Never say “I have no idea”
 
----
-
 ## 6️⃣ Handling Mistakes (Interviewers LOVE This)
 
 Mistakes are **expected**.
@@ -240,8 +224,6 @@ This shows:
 ❌ Panic = low confidence
 ✅ Calm correction = high confidence
 
----
-
 ## 7️⃣ Confidence in Coding (Language Doesn’t Matter)
 
 Confidence is **not typing speed**.
@@ -258,8 +240,6 @@ If you forget syntax:
 
 Interviewers **allow this**.
 
----
-
 ## 8️⃣ Consistency → The ROOT of Confidence
 
 Confidence is a **byproduct**, not a goal.
@@ -274,8 +254,6 @@ Confidence is a **byproduct**, not a goal.
 Missed day ❌ → confidence drops
 Consistent days ✅ → confidence compounds
 
----
-
 ## 9️⃣ Mental Habits That Build Confidence
 
 ### ✅ Positive Engineering Habits
@@ -289,8 +267,6 @@ Consistent days ✅ → confidence compounds
 * Comparing yourself
 * Overthinking interviews
 * Perfection mindset
-
----
 
 ## 🔟 Confidence Before the Interview (Pre-Game)
 
@@ -307,8 +283,6 @@ Consistent days ✅ → confidence compounds
 
   > “I don’t need to know everything. I need to think clearly.”
 
----
-
 ## 1️⃣1️⃣ Confidence During Behavioral Questions
 
 ### STAR Method (Always Use)
@@ -324,8 +298,6 @@ Example:
 
 This ties directly to your GitHub work ✔️
 
----
-
 ## 1️⃣2️⃣ Language & Accent (Very Important for You)
 
 * Accent ❌ does NOT matter
@@ -337,8 +309,6 @@ Your Korean learning already improves:
 * Brain flexibility
 * Communication confidence
 * Global readiness
-
----
 
 ## 1️⃣3️⃣ Confidence Checklist (Daily / Weekly)
 
@@ -354,8 +324,6 @@ Your Korean learning already improves:
 * ☐ Repo update
 * ☐ Reflection entry
 
----
-
 ## 1️⃣4️⃣ Truth About Google Interviews (Reality)
 
 Google does **not** look for:
@@ -368,5 +336,3 @@ Google looks for:
 * Clear thinking
 * Honest communication
 * Learning attitude
-
----
