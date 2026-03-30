@@ -35,6 +35,7 @@
 ### Mind & Clarity
 * Journals
 * Books
+* traveling
 
 ### Communication & Expression
 * Language
