@@ -1,9 +1,6 @@
 # confidence
 
-
-## Life 
-
-### Health 
+## 1. Health 
 
 #### physical health
 * Nutrition
@@ -19,7 +16,7 @@
 
 
 
-### Career/Education
+## 2. Career/Education
 
 * Theory
 * Dsa
@@ -33,8 +30,7 @@
 
 
 
-
-### Personal Growth
+## 3. Personal Growth
 
 * Guitar 
 * Chess 
@@ -46,14 +42,14 @@
 
 
 
-### Finance
+## 4. Finance
 Material 
 Earning, saving, spending, and managing resources.
 First 10,000
 
 
 
-### Networking
+## 5. Networking
 
 * myself
 * Family, friends
