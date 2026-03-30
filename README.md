@@ -32,20 +32,47 @@
 
 ## 3. Personal Growth
 
-* Guitar 
-* Chess 
-* Cube 
-* Journals  
-* Language 
-* Mun
-* Books 
+### Mind & Clarity
+* Journals
+* Books
+
+### Communication & Expression
+* Language
+* MUN
+
+### Skills & Hobbies
+* Guitar
+* Chess
+* Cube
 
 
 
 ## 4. Finance
-Material 
-Earning, saving, spending, and managing resources.
+
+### Earning
 First 10,000
+* resume 
+* internship
+* small local work 
+
+### saving
+**50–30–20** rule (modified for student) <br>
+**50%** → Needs (food, basic items) <br>
+**30%** → Wants (clothes, decor, etc.) <br>
+**20%** → Savings (non-negotiable) <br>
+* “Do I need this, or do I just want it?”
+* Focus more on earning skills than saving money
+* “I am someone who earns, saves, and spends consciously.”
+
+### spending / material
+* clothes
+* face
+* stationary
+* home decor
+* food items
+* medic
+* loundary
+* footwear
 
 
 
