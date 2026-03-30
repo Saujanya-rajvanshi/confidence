@@ -94,7 +94,7 @@ First 10,000
 
 
 
-# INTERVIEW, THINKING & CONSISTENCY
+# Interview, Thiniing & Consistency
 
 ## 1️⃣ What Confidence REALLY Means (Not Motivation)
 
