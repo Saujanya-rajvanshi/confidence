@@ -1,6 +1,6 @@
 # Confidence
 
-## 1. Health 
+## 1. 🌿 Health 
 
 #### physical health
 * Nutrition
@@ -16,7 +16,7 @@
 
 
 
-## 2. Career/Education
+## 2. 👑 Career/Education
 
 * Theory
 * Dsa
@@ -30,7 +30,7 @@
 
 
 
-## 3. Personal Growth
+## 3. 🗺 Personal Growth
 
 ### Mind & Clarity
 * Journals
@@ -48,7 +48,7 @@
 
 
 
-## 4. Finance
+## 4. 💦 Finance
 
 ### Earning
 First 10,000
@@ -77,7 +77,7 @@ First 10,000
 
 
 
-## 5. Networking
+## 5. 🏦 Networking
 
 * myself
 * Family, friends
