@@ -25,8 +25,7 @@
 * Web development 
 * Academic semester  9+ cgpa 
 * Gsoc 
-* hackathons, competitive coding 
-* Internship
+
 
 
 
@@ -79,10 +78,16 @@ First 10,000
 
 ## 5. 🏦 Networking
 
-* myself
-* Family, friends
-* Linked in, youtube, instagram
-* entairtainment
+* Personal Brand (you)
+* Close Network (family/friends)
+* Professional Platforms (LinkedIn, YouTube)
+* Social Presence (Instagram)
+* Mentors & Communities
+* hackathon
+* competitive coding 
+* Internship
+* open source
+
 
 
 
