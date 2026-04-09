@@ -25,7 +25,7 @@
 * Web development 
 * Academic semester  9+ cgpa 
 * Gsoc 
-
+* more on computer 
 
 
 
@@ -78,8 +78,8 @@ First 10,000
 
 ## 5. 🏦 Networking
 
-* Personal Brand (you)
-* Close Network (family/friends)
+* Personal Brand
+* Close Network
 * Professional Platforms (LinkedIn, YouTube)
 * Social Presence (Instagram)
 * Mentors & Communities
@@ -87,6 +87,329 @@ First 10,000
 * competitive coding 
 * Internship
 * open source
+
+
+---
+
+
+# more on computer
+
+### Core Technical Skills (Beyond DSA & Development)
+
+## 🔹 1. System Design (VERY IMPORTANT)
+
+* How to design large systems (like Instagram, WhatsApp)
+* Scalability, load balancing, databases
+
+👉 Needed for:
+
+* Intern → basic understanding
+* SDE → deeper design thinking
+
+## 🔹 2. Database Design
+
+* SQL (joins, indexing)
+* Schema design
+* Normalization
+
+👉 Real skill:
+**Designing tables correctly**, not just queries
+
+## 🔹 3. Backend Fundamentals
+
+* APIs (REST)
+* Authentication
+* Server logic
+
+👉 You should know:
+“How frontend talks to backend”
+
+## 🔹 4. Operating Systems (Practical)
+
+* Threads vs processes
+* Memory management
+* Concurrency basics
+
+👉 Helps in interviews + real systems
+
+## 🔹 5. Computer Networks
+
+* HTTP / HTTPS
+* DNS
+* Client-server model
+
+👉 You’ll understand:
+“How data actually travels”
+
+## 🔹 6. Git & Version Control (Technical usage)
+
+* Branching strategies
+* Merge conflicts
+* Collaboration workflows
+
+## 🔹 7. Debugging & Testing
+
+* Unit testing
+* Finding bugs in large codebases
+
+👉 Very underrated but critical
+
+## 🔹 8. Basic DevOps
+
+* Deployment
+* CI/CD basics
+* Hosting (like servers)
+
+👉 You should know:
+“How your code goes live”
+
+## 🔹 9. API Design
+
+* Clean endpoints
+* Error handling
+* Status codes
+
+## 🔹 10. Security Basics
+
+* Authentication vs Authorization
+* SQL injection
+* Basic protection
+
+# 🎯 Priority Order (IMPORTANT)
+
+Don’t do all at once. Follow this:
+
+### 🥇 Level 1 (Start here)
+
+* Backend fundamentals
+* Database
+* Git
+
+### 🥈 Level 2
+
+* API design
+* Debugging & testing
+* Networks basics
+
+### 🥉 Level 3
+
+* System design
+* OS concepts
+* DevOps basics
+
+# 🔥 Reality Check
+
+👉 System Design is NOT first
+You need:
+
+* Coding + backend + DB basics first
+
+# 💡 Simple Flow
+
+👉 Code → Build → Understand → Scale
+
+# 🧠 Your Focus Right Now
+
+Since you're still building:
+
+👉 Focus on:
+
+* Web dev (with backend)
+* Database
+* Git
+
+Light intro to:
+
+* System design (just basics)
+
+# ⚡ Final One-Line Clarity
+
+👉 “First learn to build → then learn to scale”
+If you want, I can give you:
+👉 A **roadmap specifically for system design (from zero to advanced)** in simple steps.
+
+---
+
+
+# Networking
+
+## interaction 
+
+“Be someone people feel comfortable talking to.” <br>
+Not smartest. Not loudest. <br>
+**Most approachable + respectful + clear** <br>
+
+### 1. The 3 Foundations of Good Interaction
+
+#### 1. Presence
+
+* Listen fully (don’t think about reply)
+* Maintain eye contact
+* No phone distraction
+
+👉 People remember how you made them *feel*, not what you said.
+
+#### 2. Curiosity
+
+* Ask genuine questions
+
+Examples:
+
+* “What are you working on these days?”
+* “How did you get into this?”
+
+👉 This works everywhere—college, MUN, life.
+
+#### 3. Clarity
+
+* Speak simple, slow, and clear
+* Don’t try to sound “smart”
+
+👉 Simple = powerful
+
+### 2. Conversation Formula (Use Anywhere)
+
+When you meet someone:
+
+#### Step 1: Start
+
+👉 “Hi, I’m Saujanya. Which course/year are you in?”
+
+#### Step 2: Explore
+
+👉 Ask 2–3 questions:
+
+* Interests
+* Work
+* Opinions
+
+#### Step 3: Relate
+
+👉 Add your side:
+
+* “Oh, I’m also learning web dev”
+* “I’ve been trying MUN as well”
+
+#### Step 4: Close (Important)
+
+👉 “Nice talking to you, let’s connect again”
+
+## 3. For MUN Specifically
+
+In MUN, people value:
+
+* Confidence (not arrogance)
+* Structured speaking
+* Respectful disagreement
+
+👉 Practice:
+
+* Speak in points
+* Don’t interrupt
+* Acknowledge others:
+
+  * “I agree with your point, but I’d like to add…”
+
+## 4. Daily Practice (Very Small)
+
+Do this daily:
+
+* Talk to 2 new people OR
+* Start 1 conversation
+
+Even simple:
+
+* Classmate
+* Shopkeeper
+* Senior
+
+👉 This removes hesitation.
+
+## 5. What Makes You “Good Person in the Room”
+
+Not jokes. Not showing off.
+
+👉 These 4 things:
+
+* You listen
+* You don’t judge
+* You speak respectfully
+* You help when possible
+
+## 6. Common Mistakes to Avoid
+
+❌ Talking only about yourself
+❌ Trying to impress
+❌ Overthinking what to say
+❌ Being silent out of fear
+
+### 🔥 Simple Identity Shift
+
+👉 “I am someone who connects with people easily.”
+
+Act like this daily → it becomes real.
+
+### 💡 One Powerful Habit
+
+After any conversation, ask yourself:
+
+* Did I listen properly?
+* Did I ask good questions?
+* Was I confident?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
