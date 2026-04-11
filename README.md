@@ -1,8 +1,8 @@
 # Confidence
 
-## 1. 🌿 Health 
+## 1. 🌿 Health / lifestyle
 
-#### physical health
+#### physical health 
 * Nutrition
 * food cooking
 * Exercise
