@@ -24,9 +24,10 @@
 * Aptitude
 * Web development 
 * Academic semester  9+ cgpa 
-* Gsoc 
-* more on computer 
-
+* more on computer
+* social science
+* science
+* maths
 
 
 ## 3. 🗺 Personal Growth
@@ -41,7 +42,11 @@
 * MUN
 
 ### Skills & Hobbies
+#### instruments
 * Guitar
+* fluet
+
+#### games
 * Chess
 * Cube
 
